@@ -1,0 +1,15 @@
+I do see some apparent patters in these scatterplots. Full meals tend to be on the bottom. Vegetarian recipies are on the left. Desserts are on the top. Alcoholic recipies are on the top right clustering.
+
+I would pick at least 500 principal componests in order to reach about 80% variance explained.
+
+I would choose 6 as the best k for the k-means clustering
+
+Based on the plots from problem 1, I can interpret the PC1/PC2 clusters by the following:
+    Blue cluster: Vegetarian Non-Meal
+    Purple cluster: Non-Vegetarian Non-Meal
+    Brown cluster: Vegetarian Meal
+    Green cluster: Non-Vegetarian Meal
+    Red cluster: Alcoholic Beverage
+    Orange cluster: Misc
+    
+It seems that the first, third, and fourth clusterings of PCA's are easilly interpretable. However, the second and fifth ones do not seem as interpretable.
